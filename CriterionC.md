@@ -23,14 +23,7 @@ Pseudo Code goes here
 [Paragraph(s) here]
 
 ## Strand ii: Technical Skills
-*Be sure that your SUBMITTED Python program is completed and submitted and using the skills required for this quarter*
+*Be sure that your SUBMITTED Python program is completed and submitted and using the skills required for this quarter. Include a link to your code from either [Codskulptor](https://py3.codeskulptor.org/) or [Repl.it](https://repl.it) if necessary*
 
 ## Strand iii: Program works as Intended with Comments
-*Make sure that your SUBMITTED Python program works as intended and contains detailed comments*
-
-
-## Strand iv: Changes
-
-*Write out a detailed explanation justifying any changes made to your chosen design (Criterion A) and plan (Strand i) while making your program.*
-
-[Paragraph(s) here]
+*Make sure that your SUBMITTED Python program works as intended and contains _detailed comments_. You don't need to write anything here.*

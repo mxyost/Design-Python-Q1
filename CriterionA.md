@@ -27,40 +27,10 @@
   * Secondary Research Sources
     * List sources...
 
-## Strand iii: Analyzing Existing Programs
-*Analyze a range of existing programs that inspire your program using your own set of standards as they relate to your problem and target audience. Change the number of programs and standards as needed for your analysis.*
 
-### Program 1
-
-[Paragraph(s) about Program 1]
-
-| Standards | Standard 1 | Standard 2| Standard 3 | Standard 4 |
-| --------- |  --------- | --------- | ---------- | ---------- |
-| Score out of 10     | score 1    | score 2   | score 3 | score 4 |
-
-***Total score out of 40:***
-
-### Program 2
-
-[Paragraph(s) about Program 2]
-
-| Standards | Standard 1 | Standard 2| Standard 3 | Standard 4 |
-| --------- |  --------- | --------- | ---------- | ---------- |
-| Score out of 10     | score 1    | score 2   | score 3 | score 4 |
-
-***Total score out of 40:***
-
-
-### Program 3
-
-[Paragraph(s) about Program 3]
-
-| Standards | Standard 1 | Standard 2| Standard 3 | Standard 4 |
-| --------- |  --------- | --------- | ---------- | ---------- |
-| Score out of 10     | score 1    | score 2   | score 3 | score 4 |
-
-***Total score out of 40:***
 
 ## Strand iv: Design Brief
 
-*Write out a detailed design brief that summarizes your research from strands ii and iii, explicitly stating what you now believe to be an optimal solution to your problem stated in strand i.
+*Write out a bulleted design brief that summarizes your research from strands ii and iii, explicitly stating what you now believe to be an optimal solution to your problem stated in strand i.
+
+* 

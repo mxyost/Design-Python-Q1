@@ -9,19 +9,6 @@
 - Design Specification 3
     - Detailed description
 
-## Strand ii: Design Ideas
-*develops a range of feasible program design ideas, using an appropriate medium(s) and make sure to have  detailed comments in your pseudo code below in Strand iv.*
-
-- Program Design Idea 1
-  - Overview
-  - Design Specification analysis
-- Program Design Idea 2
-  - Overview
-  - Design Specification analysis
-- Program Design Idea 3
-  - Overview
-  - Design Specification analysis
-
 ## Strand iii: Present chosen Design
 *Present your chosen program design along with a full and critical justification on why you chose that design based on your design specifications from Strand i.*
 

@@ -19,8 +19,3 @@
 *Explain how your program could be improved in the future.*
 
 [Paragraph(s) here]
-
-## Strand iv: Impact of Solution
-*Explain the impact of your program on the client/target that you identified in Criteria A and B.*
-
-[Paragraph(s) here]
